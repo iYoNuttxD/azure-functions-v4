@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "MONGODB_URI": "mongodb+srv://ordersadmin:OrdersPass2024!@orders-cluster.cxzyl8z.mongodb.net/?appName=orders-cluster",
+    "MONGODB_DATABASE": "OrdersServiceDB"
+  }
+}
