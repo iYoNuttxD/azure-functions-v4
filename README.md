@@ -6,6 +6,11 @@ Desenvolvido por: **[@iYoNuttxD](https://github.com/iYoNuttxD)**
 
 ---
 
+# Feito Por
+
+Daniel Ganz Musse, João Vitor de Souza Hernandes, Flavio Augusto da Cruz Melo, Matheus 
+Lowen, Enrico Malho Bozza 
+
 ## 🎯 Functions
 
 ### 1. CreateEvent
@@ -201,5 +206,6 @@ MIT
 ---
 
 ## 📅 Versão
+
 
 **v1.0.0** - 26/10/2025
